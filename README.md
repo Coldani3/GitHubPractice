@@ -1,1 +1,2 @@
 # GitHubPractice
+Sample text
